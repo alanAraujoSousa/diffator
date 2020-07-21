@@ -7,7 +7,10 @@ import org.springframework.boot.test.context.SpringBootTest;
 class DiffResourceV1Test {
 
 	@Test
-	void get() {
+	void receive_message_data_as_json() {
 	}
 
+	@Test
+	void sending_binary_data() {
+	}
 }
